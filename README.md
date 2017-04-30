@@ -1,3 +1,5 @@
+![task flow](/img/choresLogo.png)
+
 # ChoreMaster
 Simple smart contract managed chore management aka parenting on the blockchain
 
